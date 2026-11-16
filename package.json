@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Opens a video website on a Samsung TV with remote-control navigation and media keys.",
   "packageType": "mods",
-  "websiteURL": "https://hisory.com",
+  "websiteURL": "https://cinejoy.pk",
   "main": "userScript.js",
   "keys": [
     "MediaPlayPause",
